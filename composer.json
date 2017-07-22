@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "classmap": [
+            "./"
+        ],
+        "files": ["core/helpers.php"]
+    },
+    "require": {
+        "intervention/image": "^2.4",
+        "twbs/bootstrap": "^3.3"
+    }
+}
